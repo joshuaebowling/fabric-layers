@@ -1,0 +1,27 @@
+body {
+  background: #16191e;
+  color: #fff;
+  font-family: OpenSans, Arial, sans-serif;
+}
+
+canvas {
+  border: 1px solid;
+}
+
+.canvas-container {
+  float: left;
+}
+
+button {
+  margin: 0 10px 5px 10px;
+}
+
+div.timeline-layer {
+  height: 30px;
+  width: 100pc;
+}
+div.keyframe {
+  width: 10px;
+  background-color: gray;
+  border-left: 1px solid black;
+}
